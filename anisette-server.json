@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "name": "Retr0-anissete-server",
+            "name": "Retr0-server",
             "address": "https://anisette-v3-server-ifruit.onrender.com"
         }
     ]
